@@ -46,3 +46,6 @@ $RECYCLE.BIN/
 schools.json
 schools_test.txt
 pyvenv.cfg
+schoolData.json
+*.ipynb
+*.csv
